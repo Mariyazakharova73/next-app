@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### next-app
 
-## Getting Started
+#### О проекте
 
-First, run the development server:
+#### Технологии
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<div>
+<img height='25px' src="https://img.shields.io/badge/Next.js-20232A??style=plastic&logo=nextdotjs&logoColor=fff" alt="Nextjs.">
+  <img height='25px' src="https://img.shields.io/badge/React-20232A??style=plastic&logo=react&logoColor=61DAFB" alt="React.">
+  <img height='25px' src="https://img.shields.io/badge/TypeScript-20232A??style=plastic&logo=typescript&logoColor=3178C6" alt="TypeScript.">
+  <img height='25px' src="https://img.shields.io/badge/Effector-20232A??style=plastic" alt="Effector.">
+  <img height='25px' src="https://img.shields.io/badge/MUI-20232A??style=for-the-badge&logo=MUI&logoColor=007FFF" alt="MUI."/>
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Установка и запуск приложения
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<details><summary><b>Развернуть</b></summary>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Клонировать репозиторий:
 
-## Learn More
+    git clone https://github.com/Mariyazakharova73/next-app.git
 
-To learn more about Next.js, take a look at the following resources:
+Установить зависимости:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    npm install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Запустить проект:
 
-## Deploy on Vercel
+    npm dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+</details>
+<!-- 
+[Ссылка на проект react-dress](https://mariyazakharova73.github.io/next-app/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div align="center">
+  <img width="575" alt="Приложение." src="./src/images/app.png">
+</div> -->
